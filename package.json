@@ -13,7 +13,7 @@
     "centrifuge": "^2.0.0",
     "expo": "^31.0.2",
     "lodash": "^4.17.11",
-    "moment": "^2.23.0",
+    "moment": "^2.29.2",
     "native-base": "^2.10.0",
     "pouchdb-adapter-react-native-sqlite": "^1.0.3",
     "pouchdb-react-native": "^6.4.1",
